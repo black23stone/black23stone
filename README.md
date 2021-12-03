@@ -27,7 +27,7 @@
 
 ### Pubg mobile 🎮
 <p align="center">
-  <img src="https://github.com/zeeoneofc/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
+  <img src="https://github.com/black23stone/black23stone/blob/main/ml%20gif.gif" />
 </p>
 
 ------
