@@ -25,7 +25,7 @@
   <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
-### Pubg mobile 🎮
+### Playing Mobile Legends Too (ID : 235746295) 🎮
 <p align="center">
   <img src="https://github.com/black23stone/black23stone/blob/main/ml%20gif.gif" />
 </p>
