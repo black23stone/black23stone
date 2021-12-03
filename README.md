@@ -42,14 +42,14 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/black23stone"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofc&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/black23stone"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofc&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/black23stone"><img src="https://github-readme-stats.vercel.app/api?username=black23stone&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/black23stone"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black23stone&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=black23stone&repo=api-zeeoneofc&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=black23stone&repo=Alpha-userbot&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=black23stone&repo=Lord-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=black23stone&repo=zeeoneofc&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=black23stone&repo=BSTONE-Ubot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=black23stone&repo=BSTONE-WABOT&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=black23stone&repo=BSTONE-AUTOMEET&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=black23stone&repo=black23stone&theme=nightowl)
 
 
 <details>
